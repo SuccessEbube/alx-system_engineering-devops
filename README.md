@@ -1,1 +1,1 @@
-shell Basics Readme
+a script that prints “Hello, World”
